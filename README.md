@@ -3,6 +3,8 @@
 
 This is a simple  calculator implemented using HTML, CSS (Bootstrap), and JavaScript. It allows users to perform basic arithmetic calculations and evaluate mathematical expressions.
 
+![Live Website](https://shlokramteke.github.io/Calculator_BootStrap/)
+
 ## Features
 
 - Addition, subtraction, multiplication, and division operations
